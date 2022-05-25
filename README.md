@@ -8,5 +8,5 @@
 ### What I learn?
 
         -Using of Window Local Storage Object.
-        -Hooks: `useState()`, `useEffect() `
+        -Hooks: useState(), useEffect() 
         -Using of React icons liberary.
